@@ -1,4 +1,4 @@
-# <img src="https://assets.turbine.cash/turbine.cash-no-bg.png" width="40"> Turbine Cash
+# <img src="https://assets.turbine.cash/turbine.cash-no-bg.png" height="50" align="center"> Turbine Cash
 
 ## Leading the PrivacyFi revolution.
 - Private token transfers.
@@ -14,5 +14,5 @@
 - [Telegram](https://tg.turbine.cash)
 
 ## Token
-- <img src="https://assets.turbine.cash/zkfg.png" width="40"> Powered by [MetaDAO](https://metadao.fi) futarchy token [$ZKFG](https://jup.ag/tokens/ZKFHiLAfAFMTcDAuCtjNW54VzpERvoe7PBF9mYgmeta)
-- <img src="https://assets.turbine.cash/ZSOL-SQUARE.png" width="40"> [The best performing LST in the world, by us](https://app.sanctum.so/explore/ZSOL)
+- <img src="https://assets.turbine.cash/zkfg.png" width="40" align="center"> Powered by [MetaDAO](https://metadao.fi) futarchy token [$ZKFG](https://jup.ag/tokens/ZKFHiLAfAFMTcDAuCtjNW54VzpERvoe7PBF9mYgmeta)
+- <img src="https://assets.turbine.cash/ZSOL-SQUARE.png" width="40" align="center"> [The best performing LST in the world, by us](https://app.sanctum.so/explore/ZSOL)
