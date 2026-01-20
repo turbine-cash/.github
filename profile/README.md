@@ -1,4 +1,4 @@
-# <img src="https://assets.turbine.cash/turbine.cash-no-bg.png" height="50" align="center"> Turbine Cash
+# <img src="https://assets.turbine.cash/turbine.cash-no-bg.png" height="50" align="center"> [Turbine Cash](https://turbine.cash)
 
 ## Leading the PrivacyFi revolution.
 - Private token transfers.
