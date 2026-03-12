@@ -2,8 +2,6 @@
 
 ## Leading the PrivacyFi revolution.
 - Private token transfers.
-- Private LST.
-- Private swaps.
 - Private DCA.
 - More to come.
 
