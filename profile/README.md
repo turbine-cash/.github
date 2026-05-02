@@ -8,7 +8,6 @@
 ## Links
 - [Private Transfers , Private Swaps , Private LST](https://turbine.cash)
 - [Private DCA](https://dca.turbine.cash)
-- [Twitter](https://x.com/turbine_cash)
 - [Telegram](https://tg.turbine.cash)
 
 ## Token
